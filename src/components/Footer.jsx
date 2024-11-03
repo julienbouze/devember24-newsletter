@@ -54,7 +54,7 @@ export function Footer() {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Devember'24
+                    Devember&#39;24
                 </a>{" "}
                 challenge
             </p>

@@ -39,7 +39,7 @@ export function Content() {
                 <div className="flex flex-col md:flex-row gap-6 text-blue-800">
                     <Image src={Randy} className="w-full md:w-2/5 h-2/5" alt="Randy Orton hits Kevin Owens" />
                     <p className="text-justify">
-                        Their match never started at Crown Jewel. They only wanted to hurt each other, and it's not gonna end until they settle this once and for all. Nobody could stop them, not even Raw and SmackDown General Managers Adam Pearce and Nick Aldis. Get ready, because Randy Orton and Kevin Owens are not done at all.
+                        Their match never started at Crown Jewel. They only wanted to hurt each other, and it&#39;s not gonna end until they settle this once and for all. Nobody could stop them, not even Raw and SmackDown General Managers Adam Pearce and Nick Aldis. Get ready, because Randy Orton and Kevin Owens are not done at all.
                     </p>
                 </div>
             </div>
@@ -49,7 +49,7 @@ export function Content() {
                 <h2 className={`text-3xl ${bn.className} text-black`}>Back to business</h2>
                 <div className="flex flex-col md:flex-row gap-6 text-blue-800">
                     <p className="text-justify">
-                        Crown Jewel being now behind us, the Undisputed WWE Champion Cody Rhodes has once again a target on his back. Who&#39;s gonna step up and challenge him at Survivor Series ? Are we going to re-live an old rivalry ? Are we going to witness the rise of a new Superstar ? Don't miss SmackDown this Friday to discover The American Nightmare&#39;s next opponent.
+                        Crown Jewel being now behind us, the Undisputed WWE Champion Cody Rhodes has once again a target on his back. Who&#39;s gonna step up and challenge him at Survivor Series ? Are we going to re-live an old rivalry ? Are we going to witness the rise of a new Superstar ? Don&#39;t miss SmackDown this Friday to discover The American Nightmare&#39;s next opponent.
                     </p>
                     <Image src={Cody} className="w-full md:w-2/5 h-2/5" alt="Cody Rhodes with a microphone" />
                 </div>
