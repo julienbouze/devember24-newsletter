@@ -2,7 +2,7 @@ import Image from "next/image";
 
 import Andrade from '/public/andrade.jpg'
 import MCMG from '/public/mcmg.jpg'
-import Randy from '/public/randy.webp'
+import Randy from '/public/randyko.webp'
 import Cody from '/public/cody.jpg'
 import { Bebas_Neue } from "next/font/google";
 
